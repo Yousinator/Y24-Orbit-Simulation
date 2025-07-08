@@ -162,6 +162,6 @@ This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENS
 
 <div align="center">
 
-**Made with ❤️ for space exploration and orbital mechanics**
+**Made with ❤️ by Yousinator**
 
 </div>
